@@ -1,2 +1,2 @@
-# hello, i'm juan and i like typescript
+## hello, i'm juan and i like typescript
  
