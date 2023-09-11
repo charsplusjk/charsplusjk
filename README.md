@@ -6,7 +6,7 @@ current goals:
 * master vim
 * learn linux
 * learn rust and c++
-* improve my skills with c# and typescript
+* improve my skills with c# and typescript (and get back to java)
 * get started with open source projects
 
 <details>
