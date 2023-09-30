@@ -1,6 +1,6 @@
 ### hello there
 
-i'm juan, a full stack developer from sao paulo
+i'm juan, a full stack developer from sao paulo/brazil.
 
 current goals:
 * learn linux, vim and rust
