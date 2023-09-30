@@ -5,7 +5,7 @@ i'm juan, a full stack developer from sao paulo/brazil.
 current goals:
 * master vim
 * learn linux
-* learn rust and c++
+* learn rust
 * improve my skills with c#/dotnet and typescript (angular/vue)
 * get started with open source projects
 
