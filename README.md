@@ -1,8 +1,5 @@
 ### hello there
 
-i'm juan, a full stack developer from sao paulo/brazil.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charsplusjk&layout=compact&theme=transparent)
 
-current goals:
-* improve my skills with c#, typescript and rust
-* contribute with open source projects
 
